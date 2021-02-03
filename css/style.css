@@ -1,7 +1,7 @@
 h1{
 	text-align: center;
 	font-size:55px;
-	color: blue;
+	color: #8A2BE2;
 
 }
 h3{
@@ -15,4 +15,35 @@ abbr{
 }
 i{
 	font-size: 20px;
+}
+
+.bg_blue{
+
+	background-color: #7ac9e3 ;
+}
+.border{
+	border: 10px solid #7ac9e3;
+}
+#descrip{
+
+	font-size: 18px;
+	background-color: #8FBC8F;
+	border: 20px solid #8FBC8F; 
+
+}
+
+.text_color{
+	font-size: 18px;
+	font-style: italic;
+	color: #CD5C5C;
+}
+#change_color{
+	font-size: 18px;
+	font-style: italic;
+	color: #9370DB;
+
+}
+.big{
+	font-size: 40px;
+	color: #6B8E23;
 }
