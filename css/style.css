@@ -10,5 +10,9 @@ h3{
 
 abbr{
 	font-style: bold;
+	
 	color: green;
+}
+i{
+	font-size: 20px;
 }
